@@ -3,22 +3,22 @@
 This page shows the Purchase module configuration in Odoo for HomeCraft Furniture.
 
 ## Vendors
-![Vendors](purchase-vendors.png)
+![Vendors](screenshots/purchase-vendors.png)
 
 ## Products
-![Products](purchase-products.png)
+![Products](screenshots/purchase-products.png)
 
 ## Requests for Quotation
-![RFQ](purchase-rfq.png)
+![RFQ](screenshots/purchase-rfq.png)
 
 ## Purchase Agreements
-![Agreements](purchase-agreements.png)
+![Agreements](screenshots/purchase-agreements.png)
 
 ## Product Categories
-![Categories](purchase-categories.png)
+![Categories](screenshots/purchase-categories.png)
 
 ## Attributes
-![Attributes](purchase-attributes.png)
+![Attributes](screenshots/purchase-attributes.png)
 
 ## Purchase Analysis
-![Analysis](purchase-analysis.png)
+![Analysis](screenshots/purchase-analysis.png)
