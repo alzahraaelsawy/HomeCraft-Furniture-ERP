@@ -104,3 +104,25 @@ This project is currently in progress. The GitHub repository will be updated reg
 Project: HomeCraft Furniture
 System: Odoo ERP
 Project Type: ERP Implementation Project
+## Screenshots
+
+### Vendors
+![Vendors](purchase-vendors.png)
+
+### Products
+![Products](purchase-products.png)
+
+### Requests for Quotation
+![RFQ](purchase-rfq.png)
+
+### Purchase Agreements
+![Agreements](purchase-agreements.png)
+
+### Product Categories
+![Categories](purchase-categories.png)
+
+### Attributes
+![Attributes](purchase-attributes.png)
+
+### Purchase Analysis
+![Analysis](purchase-analysis.png)
