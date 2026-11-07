@@ -61,6 +61,13 @@ Quotation templates store ready-made furniture packages with their products and 
 
 ![Master Bedroom Package template](screenshots/sales-template-lines.png)
 
+## Sales to Purchase Link
+
+When the sales order is confirmed, Odoo automatically creates a request for quotation in the Purchase module for the product that needs to be purchased. The sales order shows a Purchase button that opens the linked request, and the request keeps the sales order as its source.
+
+![Purchase button on the sales order](screenshots/link-01-sales-order-purchase-button.png)
+![Linked request for quotation](screenshots/link-02-linked-rfq.png)
+
 ## Module Screenshots
 
 ### Customers
