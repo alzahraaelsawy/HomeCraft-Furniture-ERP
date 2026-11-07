@@ -102,7 +102,9 @@ Using Odoo ERP is expected to help HomeCraft Furniture achieve:
 
 ## 11. Project Status
 
-This project is currently in progress. The GitHub repository will be updated regularly with presentation materials, implementation screenshots, configuration details, and additional project deliverables as work progresses.
+## 11. Project Status
+
+This project is currently in progress. The Purchase and Sales modules are documented with workflow and configuration screenshots, and the remaining modules will be added as work progresses.
 
 ---
 
