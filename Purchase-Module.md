@@ -32,6 +32,17 @@ Validating the receipt updates the stock and marks the receipt as Done.
 
 > After receiving the products, the vendor bill is created and posted in the Accounting module.
 
+## Purchase Agreement (Blanket Order)
+
+A blanket order is an agreement with a vendor for a defined period. It records the vendor, the validity dates, and the products with the agreed quantity and unit price. Purchase orders can be created from the agreement, and the ordered quantity is tracked against the agreed quantity.
+
+![Blanket order BO00001](screenshots/purchase-agreement-detail.png)
+
+The purchase order created from the agreement shows the agreement reference and uses the agreed unit price.
+
+![Order linked to the agreement](screenshots/purchase-agreement-linked-order.png)
+
+
 ## Module Screenshots
 
 ### Vendors
