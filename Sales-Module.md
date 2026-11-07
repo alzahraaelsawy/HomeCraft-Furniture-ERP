@@ -42,6 +42,25 @@ After delivery, the invoice is created from the sales order and posted.
 
 > Payment of the customer invoice is covered in the Accounting module.
 
+## Pricelist Setup
+
+Pricelists apply automatic discounts to quotation lines.
+
+**Seasonal Discount:** gives a 5% discount on all products for a defined period and is linked to the Egypt country group. This is the pricelist used in the sales order workflow above.
+
+![Seasonal Discount pricelist](screenshots/sales-pricelist-seasonal.png)
+
+**VIP Pricelist:** gives a 5% discount from 5 units and a 15% discount from 7 units.
+
+![VIP pricelist rules](screenshots/sales-pricelist-rules.png)
+![Pricelist rule detail](screenshots/sales-pricelist-rule-detail.png)
+
+## Quotation Template Setup
+
+Quotation templates store ready-made furniture packages with their products and quantities. A template also defines the quotation validity, online signature and online payment options, and can include optional products for the customer to choose from.
+
+![Master Bedroom Package template](screenshots/sales-template-lines.png)
+
 ## Module Screenshots
 
 ### Customers
