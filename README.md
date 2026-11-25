@@ -99,11 +99,12 @@ Using Odoo ERP is expected to help HomeCraft Furniture achieve:
 
 - [Purchase Module screenshots](Purchase-Module.md)
 - [Sales Module screenshots](Sales-Module.md)
+- [Accounting Module screenshots](Accounting-Module.md)
 
+- 
 ## 11. Project Status
 
-This project is currently in progress. The Purchase and Sales modules are documented with workflow and configuration screenshots, and the remaining modules will be added as work progresses.
-
+This project is currently in progress. The Purchase, Sales, and Accounting modules are documented with workflow and configuration screenshots, and the remaining modules will be added as work progresses.
 ---
 
 **Project:** HomeCraft Furniture  
