@@ -75,3 +75,9 @@ The Q4 for 2026 - Alex Revenue budget is a revenue budget for Alex Branch, with 
 The Budget Report compares the budget, committed, and achieved amounts. For Alex Branch it shows a budget of 2,500,000 LE, with 64,450 LE committed and 64,450 LE achieved.
 
 ![Budget report](screenshots/accounting-18-budget-report.png)
+
+## Profit and Loss
+
+The Profit and Loss report for 2026 shows revenue of 1,341,763.03 LE, operating expenses of 759,260.94 LE, an operating income of 582,502.09 LE, and a net profit of 582,340.85 LE. A banner notes that unposted journal entries also exist in the period.
+
+![Profit and Loss](screenshots/accounting-25-profit-and-loss.png)
