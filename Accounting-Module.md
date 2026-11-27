@@ -61,3 +61,17 @@ Bill BILL/2026/10/0003 from Modern Wood Supplies was created from purchase order
 
 Its journal items debit Raw Materials Inventory per product and VAT Input, and credit Payables.
 ![Vendor bill journal items](screenshots/accounting-15-vendor-bill-journal-items.png)
+
+## Budgets
+
+Budgets compare the planned amounts with the actual results by analytic account (branch). The list shows three open budgets: Q3 for 2026, Q4 for 2026 - Alex Revenue, and Q4 for 2026 - Alex Expense.
+
+![Budgets list](screenshots/accounting-16-financial-budgets.png)
+
+The Q4 for 2026 - Alex Revenue budget is a revenue budget for Alex Branch, with a period from September 1 to December 31. The budget line shows a budgeted amount of 2,500,000 LE and an achieved amount of 64,450 LE. The Budget Report button opens the comparison report.
+
+![Budget lines](screenshots/accounting-17-budget-lines.png)
+
+The Budget Report compares the budget, committed, and achieved amounts. For Alex Branch it shows a budget of 2,500,000 LE, with 64,450 LE committed and 64,450 LE achieved.
+
+![Budget report](screenshots/accounting-18-budget-report.png)
