@@ -72,7 +72,8 @@ The project uses Analytic Accounting to analyze revenue and costs across two bra
 
 - Cairo Branch
 - Main Showroom – Assiut
-
+- Alexandria Branch
+  
 This helps evaluate branch performance and supports better management decisions.
 
 ## 8. Budgeting and Performance Monitoring
